@@ -1,5 +1,5 @@
 {
-    "name": "acme/auth-package",
+    "name": "acmei/auth-package",
     "description": "A Laravel package for login and registration pages",
     "type": "library",
     "license": "MIT",
