@@ -16,6 +16,13 @@
     "autoload": {
     "psr-4": {
         "Acme\\AuthPackage\\": "src/"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Acme\\AuthPackage\\AuthPackageServiceProvider"
+            ]
+        }
     }
 }
 }
